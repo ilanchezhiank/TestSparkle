@@ -1,0 +1,20 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VMware Workspace ONE Changelog</title>
+        <link>
+            https://github.com/ilanchezhiank/TestSparkle/update/WS1Appcast.xml
+        </link>
+        <description>
+            VMware Workspace ONE update history
+        </description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:releaseNotesLink>
+                https://github.com/ilanchezhiank/TestSparkle/update/ReleaseNotes.html#version-1.0.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 06 Aug 2017 14:48:50 +0530</pubDate>
+            <enclosure url="https://dropbox.com/ws1_1.0.0.dmg" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" type="application/octet-stream" length="0" sparkle:dsaSignature=""/>
+        </item>
+    </channel>
+</rss>
